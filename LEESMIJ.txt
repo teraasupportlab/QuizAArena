@@ -1,6 +1,6 @@
 QuizAArena - Ter AA
 Upload de inhoud van deze ZIP naar de hoofdmap van de repository QuizAArena. Open index.html of GitHub Pages.
-220 goedgekeurde afbeeldingen; 50 vragen per ronde; 2 seconden antwoordtijd; 2 seconden correctie.
+220 goedgekeurde afbeeldingen; 50 vragen per ronde; 5, 3 of 2 seconden antwoordtijd (standaard 5); records per niveau; 2 seconden correctie.
 De Kilroy-animatie is CSS en speelt eenmaal bij het hoofdmenu.
 IPv4: klassieke klassen, RFC1918 prive, D multicast, E gereserveerd; geen speciale uitzonderingsreeksen als vragen.
 Geen externe afhankelijkheden.
