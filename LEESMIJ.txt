@@ -1,0 +1,1 @@
+Open controle.html na uitpakken. De map assets bevat de huidige quizafbeeldingen. De map ontwerpen bevat de oorspronkelijke beeldbladen en menuconcepten. Nog niet alle categorieen hebben 50 unieke afbeeldingen.
